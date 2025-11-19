@@ -1,5 +1,5 @@
 # Task Manager
-A website where users can login and manage their tasks.
+A website where users can manage their tasks.
 
 ## Features and Architecture
 This website was built using Express and MongoDB as well as ejs for server side rendering.
