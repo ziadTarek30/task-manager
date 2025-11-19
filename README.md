@@ -18,8 +18,8 @@ MONGO_URI = your_mongodb_uri
 npm start
 
 ## Demo
-<video autoplay muted loop playsinline width="600">
- <source src="task-manager/demo.mp4" type="video/mp4">
+<video autoplay loop muted playsinline width="600">
+  <source src="https://www.awesomescreenshot.com/video/46580773?key=8e579b56269402b84468f9c654b69173" type="video/mp4">
 </video>
 
 ### Optional commands
